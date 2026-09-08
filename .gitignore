@@ -14,3 +14,5 @@ __pycache__/
 # IDE configs
 .idea/
 .vscode/
+
+workspace.xml
