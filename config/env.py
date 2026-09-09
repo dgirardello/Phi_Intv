@@ -1,7 +1,7 @@
-BASE_URL = "https://qa-env-calculator.internal.corp"
+BASE_URL = "https://risk-calculator-qa-assignment.lovable.app"
 DEFAULT_BROWSER = "chrome"
 IMPLICIT_WAIT = "5s"
 SELENIUM_TIMEOUT = "10s"
 
-VALID_USER = "qa_analyst@corp.internal"
+VALID_EMAIL = "valid@email.com"
 VALID_PASSWORD = "SecurePass2026!"

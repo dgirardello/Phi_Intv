@@ -4,4 +4,3 @@
 --output output.xml
 --loglevel INFO
 --variable BROWSER:chrome
---variable TIMEOUT:10s
